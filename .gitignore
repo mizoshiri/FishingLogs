@@ -1,0 +1,6 @@
+/lp/app/tmp
+/lp/lib/Cake/Console/Templates/skel/tmp/
+/lp/plugins
+/lp/vendors
+.DS_Store
+/lp/tags
